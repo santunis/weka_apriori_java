@@ -1,2 +1,5 @@
 # weka_apriori_java
-Projeto MineraÃ§Ã£o de Regras de AssociaÃ§Ã£o com Weka, Apriori e Java
+Projeto Mineração de Regras de Associação com Weka, Apriori e Java
+
+## Descrição
+A descoberta de regras de associação é uma das subáreas da Mineração de Dados mais populares e que apresenta uma diversidade muito grande de aplicações práticas e comerciais! Se você estuda Inteligência Artificial, talvez já tenha ouvido falar daquele clássico exemplo das fraudas e cervejas! Caso não, há vários anos um mercado muito famoso descobriu um padrão bem interessante em seus dados: em certos dias da semana existiam muitas vendas em conjunto tanto de fraudas quanto de cervejas. De posse desse conhecimento, eles decidiram alterar a disposição das prateleiras do mercado e conseguiram otimizar as vendas desses dois produtos em conjunto (o que aumentou significativamente as receitas). O segredo disso é que eles usaram a técnica de regras de associação, que tem como objetivo a descoberta de padrões nos dados que não podem ser facilmente encontrados somente “batendo o olho” nos registros. Essa técnica utiliza um algoritmo (o mais famoso é o Apriori) que é capaz de descobrir esse tipo de associação, podendo ser aplicado nos mais variados cenários!
